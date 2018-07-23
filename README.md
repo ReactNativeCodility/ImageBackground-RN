@@ -8,7 +8,7 @@ Image 1     |  Image 2 |
 ![](https://github.com/ReactNativeCodility/ImageBackground-RN/blob/master/design/bg.png?raw=true)  |  ![](https://github.com/ReactNativeCodility/ImageBackground-RN/blob/master/design/bg.png?raw=true)  
 
 # Play Video
-[![](https://github.com/ReactNativeCodility/ImageBackground-RN/blob/master/design/react-geo.png?raw=true)](https://youtu.be/0zxf51nunao "Click here to watch")
+[![](https://github.com/ReactNativeCodility/ImageBackground-RN/blob/master/design/img-video.png?raw=true)](https://youtu.be/qnxK-nj9ykU "Click here to watch")
 
 # Like Facebook Page
 [![](https://github.com/AndroidCodility/Barchart-Graph/blob/master/design/fb.png?raw=true)](https://www.facebook.com/androidcodility/ "Click here")
